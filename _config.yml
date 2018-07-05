@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Zack Yang
+tagline:             A Moderately Okay Data Science Blog
+url:                 http://zyang.github.io
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Zack Yang
+  url:               
+  email:             zackyangchicago@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/eggyoyoyo
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
