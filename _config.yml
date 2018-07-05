@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Zack Yang
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://zyang.github.io
+tagline:             A Data Science Projects Blog
+url:                 http://eggyoyoyo.github.io
 paginate:            2
 baseurl:             ""
 
@@ -19,7 +19,7 @@ sass:
 author:
   name:              Zack Yang
   url:               
-  email:             zackyangchicago@gmail.com
+  email:             
 
 # Custom vars
 version:             2.0.0
